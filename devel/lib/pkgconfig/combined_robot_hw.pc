@@ -1,0 +1,8 @@
+prefix=/home/nadoud/inmoov/devel
+
+Name: combined_robot_hw
+Description: Description of combined_robot_hw
+Version: 0.13.5
+Cflags: -I/home/nadoud/inmoov/src/ros_control-kinetic-devel/combined_robot_hw/include
+Libs: -L${prefix}/lib -lcombined_robot_hw
+Requires: hardware_interface pluginlib roscpp

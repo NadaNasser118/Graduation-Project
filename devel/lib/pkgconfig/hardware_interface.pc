@@ -1,0 +1,8 @@
+prefix=/home/nadoud/inmoov/devel
+
+Name: hardware_interface
+Description: Description of hardware_interface
+Version: 0.13.5
+Cflags: -I/home/nadoud/inmoov/src/ros_control-kinetic-devel/hardware_interface/include
+Libs: -L${prefix}/lib 
+Requires: roscpp

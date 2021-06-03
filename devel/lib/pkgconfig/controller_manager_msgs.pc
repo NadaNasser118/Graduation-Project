@@ -1,0 +1,8 @@
+prefix=/home/nadoud/inmoov/devel
+
+Name: controller_manager_msgs
+Description: Description of controller_manager_msgs
+Version: 0.13.5
+Cflags: -I/home/nadoud/inmoov/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

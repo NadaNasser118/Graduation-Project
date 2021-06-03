@@ -1,0 +1,8 @@
+prefix=/home/nadoud/inmoov/devel
+
+Name: at1_navigation2
+Description: Description of at1_navigation2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

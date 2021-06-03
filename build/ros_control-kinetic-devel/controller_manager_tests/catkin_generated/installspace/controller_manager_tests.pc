@@ -1,0 +1,8 @@
+prefix=/home/nadoud/inmoov/install
+
+Name: controller_manager_tests
+Description: Description of controller_manager_tests
+Version: 0.13.5
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lcontroller_manager_tests
+Requires: controller_manager controller_interface

@@ -1,0 +1,8 @@
+prefix=/home/nadoud/inmoov/devel
+
+Name: yarab_5
+Description: Description of yarab_5
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
